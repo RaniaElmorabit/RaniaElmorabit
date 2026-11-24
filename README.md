@@ -16,7 +16,6 @@ I'm a second-year **Full-Stack Web Development** student based in **Tétouan, Mo
 ### 🚀 Featured Projects
 
 * **[GreenMarket](https://github.com/projectsrx00/GreenMarket)** — Collaborative full-stack e-commerce web application built with HTML, CSS, JavaScript, PHP, and MySQL.
-* **[Content Management App (React)](https://github.com/RaniaElmorabit/react-gestion-contenu)** — Dynamic single-page application built with React for creating, organizing, and managing content.
 * **[Python Mini-Projects](https://github.com/RaniaElmorabit/python-mini-projects)** — A collection of scripts and logic exercises focused on Python fundamentals and Object-Oriented Programming.
 
 ---
