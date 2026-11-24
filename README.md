@@ -31,5 +31,5 @@ I'm a second-year **Full-Stack Web Development** student based in **Tétouan, Mo
 
 ### 📫 Let's Connect
 
-* **LinkedIn:** [linkedin.com/in/rania-el-morabit]
+* **LinkedIn:** [linkedin.com/in/rania-el-morabit-9a521b383](https://www.linkedin.com/in/rania-el-morabit-9a521b383)
 * **Email:** elmorabit.rania2@gmail.com
