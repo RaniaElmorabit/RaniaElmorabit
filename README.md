@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi there, I'm Rania El Morabit 👋
 
-<!--
-**RaniaElmorabit/RaniaElmorabit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year **Full-Stack Web Development** student based in **Tétouan, Morocco**, currently looking for a **Software Engineering / Full-Stack Internship**. I enjoy building clean, responsive user interfaces and reliable back-end systems, while continuously sharpening my foundations in algorithms and problem-solving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3 (Bootstrap, Flexbox), JavaScript (ES6+), React 18 (Hooks, Redux, Axios)
+* **Backend & Scripting:** PHP, Python
+* **Databases:** MySQL, SQL, MongoDB
+* **Design & Tools:** Git, GitHub, Figma, UML / Merise, MySQL Workbench
+
+---
+
+### 🚀 Featured Projects
+
+* **[GreenMarket](https://github.com/projectsrx00/GreenMarket)** — Collaborative full-stack e-commerce web application built with HTML, CSS, JavaScript, PHP, and MySQL.
+* **[Content Management App (React)](https://github.com/RaniaElmorabit/react-gestion-contenu)** — Dynamic single-page application built with React for creating, organizing, and managing content.
+* **[Python Mini-Projects](https://github.com/RaniaElmorabit/python-mini-projects)** — A collection of scripts and logic exercises focused on Python fundamentals and Object-Oriented Programming.
+
+---
+
+### 🌱 Currently Focusing On
+
+* Building full-stack applications with **React, Redux, and MongoDB**
+* Strengthening core computer science and algorithmic thinking with **Python**
+* Designing clean, user-friendly interfaces in **Figma** before writing code
+
+---
+
+### 📫 Let's Connect
+
+* **LinkedIn:** [linkedin.com/in/rania-el-morabit]
+* **Email:** elmorabit.rania2@gmail.com
